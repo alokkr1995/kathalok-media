@@ -17,14 +17,14 @@
   "Devas (yellow/saffron, crowns)"
  ],
  "frame": "1080x1920 (9:16), safe zone: top 220px + bottom 400px kept free of faces/text",
- "duration_s": 49.42,
+ "duration_s": 49.12,
  "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/_characters/DA_model_sheet.jpg",
  "shots": [
   {
    "shot_id": "DA-03-S01",
    "time_in": "0.00s",
-   "time_out": "1.79s",
-   "duration_s": 1.79,
+   "time_out": "1.88s",
+   "duration_s": 1.88,
    "vo": "एक असुर पूरी पृथ्वी को",
    "size": "WS (underwater)",
    "angle": "high",
@@ -48,14 +48,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S01_arrows.jpg",
    "script_time_in": "0.0s",
    "script_time_out": "1.5s",
-   "vo_start": 0.12,
-   "vo_end": 1.786
+   "vo_start": 0.16,
+   "vo_end": 1.882
   },
   {
    "shot_id": "DA-03-S02",
-   "time_in": "1.79s",
-   "time_out": "4.37s",
-   "duration_s": 2.58,
+   "time_in": "1.88s",
+   "time_out": "4.61s",
+   "duration_s": 2.73,
    "vo": "समुद्र की तलहटी में खींच ले गया…",
    "size": "MS",
    "angle": "low",
@@ -77,14 +77,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S02.jpg",
    "script_time_in": "1.5s",
    "script_time_out": "3.0s",
-   "vo_start": 1.786,
-   "vo_end": 4.119
+   "vo_start": 1.882,
+   "vo_end": 4.294
   },
   {
    "shot_id": "DA-03-S03",
-   "time_in": "4.37s",
-   "time_out": "6.24s",
-   "duration_s": 1.88,
+   "time_in": "4.61s",
+   "time_out": "6.41s",
+   "duration_s": 1.8,
    "vo": "मंथन का विष शिव ने पी लिया",
    "size": "MS",
    "angle": "low",
@@ -108,14 +108,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S03_arrows.jpg",
    "script_time_in": "3.0s",
    "script_time_out": "5.5s",
-   "vo_start": 4.486,
-   "vo_end": 6.243
+   "vo_start": 4.727,
+   "vo_end": 6.406
   },
   {
    "shot_id": "DA-03-S04",
-   "time_in": "6.24s",
-   "time_out": "7.66s",
-   "duration_s": 1.42,
+   "time_in": "6.41s",
+   "time_out": "7.97s",
+   "duration_s": 1.56,
    "vo": "और नीलकंठ कहलाए।",
    "size": "CU",
    "angle": "low",
@@ -139,14 +139,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S04_arrows.jpg",
    "script_time_in": "5.5s",
    "script_time_out": "7.5s",
-   "vo_start": 6.243,
-   "vo_end": 7.601
+   "vo_start": 6.406,
+   "vo_end": 7.805
   },
   {
    "shot_id": "DA-03-S05",
-   "time_in": "7.66s",
-   "time_out": "12.14s",
-   "duration_s": 4.48,
+   "time_in": "7.97s",
+   "time_out": "12.49s",
+   "duration_s": 4.52,
    "vo": "पर एक और युग में, ख़तरा सिर्फ़ देवताओं पर नहीं, पूरी धरती पर था।",
    "size": "WS",
    "angle": "eye",
@@ -170,14 +170,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S05_arrows.jpg",
    "script_time_in": "7.5s",
    "script_time_out": "10.0s",
-   "vo_start": 7.781,
-   "vo_end": 11.945
+   "vo_start": 8.089,
+   "vo_end": 12.276
   },
   {
    "shot_id": "DA-03-S06",
-   "time_in": "12.14s",
-   "time_out": "13.29s",
-   "duration_s": 1.15,
+   "time_in": "12.49s",
+   "time_out": "13.70s",
+   "duration_s": 1.21,
    "vo": "असुर हिरण्याक्ष,",
    "size": "MS (hero villain)",
    "angle": "low",
@@ -201,14 +201,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S06_arrows.jpg",
    "script_time_in": "10.0s",
    "script_time_out": "12.5s",
-   "vo_start": 12.26,
-   "vo_end": 13.294
+   "vo_start": 12.614,
+   "vo_end": 13.695
   },
   {
    "shot_id": "DA-03-S07",
-   "time_in": "13.29s",
-   "time_out": "15.13s",
-   "duration_s": 1.84,
+   "time_in": "13.70s",
+   "time_out": "15.55s",
+   "duration_s": 1.85,
    "vo": "जिससे देवता तक डरते थे,",
    "size": "WS",
    "angle": "eye",
@@ -232,14 +232,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S07_arrows.jpg",
    "script_time_in": "12.5s",
    "script_time_out": "15.0s",
-   "vo_start": 13.294,
-   "vo_end": 15.132
+   "vo_start": 13.695,
+   "vo_end": 15.548
   },
   {
    "shot_id": "DA-03-S08",
-   "time_in": "15.13s",
-   "time_out": "18.14s",
-   "duration_s": 3.01,
+   "time_in": "15.55s",
+   "time_out": "18.55s",
+   "duration_s": 3.0,
    "vo": "धरती को रसातल के अंधेरे पानी में ले गया।",
    "size": "EWS",
    "angle": "high",
@@ -263,14 +263,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S08_arrows.jpg",
    "script_time_in": "15.0s",
    "script_time_out": "18.0s",
-   "vo_start": 15.132,
-   "vo_end": 17.949
+   "vo_start": 15.548,
+   "vo_end": 18.328
   },
   {
    "shot_id": "DA-03-S09",
-   "time_in": "18.14s",
-   "time_out": "19.62s",
-   "duration_s": 1.48,
+   "time_in": "18.55s",
+   "time_out": "19.94s",
+   "duration_s": 1.39,
    "vo": "तभी ब्रह्मा की नाक से",
    "size": "MS",
    "angle": "eye",
@@ -292,14 +292,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S09.jpg",
    "script_time_in": "18.0s",
    "script_time_out": "20.5s",
-   "vo_start": 18.264,
-   "vo_end": 19.619
+   "vo_start": 18.666,
+   "vo_end": 19.942
   },
   {
    "shot_id": "DA-03-S10",
-   "time_in": "19.62s",
-   "time_out": "22.02s",
-   "duration_s": 2.4,
+   "time_in": "19.94s",
+   "time_out": "22.40s",
+   "duration_s": 2.46,
    "vo": "एक अंगूठे जितना सूअर निकला…",
    "size": "ECU (insert)",
    "angle": "eye",
@@ -323,14 +323,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S10_arrows.jpg",
    "script_time_in": "20.5s",
    "script_time_out": "23.0s",
-   "vo_start": 19.619,
-   "vo_end": 21.829
+   "vo_start": 19.942,
+   "vo_end": 22.173
   },
   {
    "shot_id": "DA-03-S11",
-   "time_in": "22.02s",
-   "time_out": "25.71s",
-   "duration_s": 3.69,
+   "time_in": "22.40s",
+   "time_out": "25.72s",
+   "duration_s": 3.32,
    "vo": "और देखते ही देखते पर्वत जितना विशाल हो गया।",
    "size": "WS",
    "angle": "low",
@@ -354,14 +354,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S11_arrows.jpg",
    "script_time_in": "23.0s",
    "script_time_out": "25.5s",
-   "vo_start": 22.144,
-   "vo_end": 25.294
+   "vo_start": 22.525,
+   "vo_end": 25.556
   },
   {
    "shot_id": "DA-03-S12",
-   "time_in": "25.71s",
-   "time_out": "28.12s",
-   "duration_s": 2.41,
+   "time_in": "25.72s",
+   "time_out": "27.97s",
+   "duration_s": 2.25,
    "vo": "विष्णु का तीसरा अवतार, वराह।",
    "size": "MS (hero)",
    "angle": "low (worm's-eye)",
@@ -385,14 +385,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S12_arrows.jpg",
    "script_time_in": "25.5s",
    "script_time_out": "28.0s",
-   "vo_start": 25.834,
-   "vo_end": 27.929
+   "vo_start": 25.84,
+   "vo_end": 27.756
   },
   {
    "shot_id": "DA-03-S13",
-   "time_in": "28.12s",
-   "time_out": "30.28s",
-   "duration_s": 2.16,
+   "time_in": "27.97s",
+   "time_out": "30.15s",
+   "duration_s": 2.18,
    "vo": "वराह ने समुद्र में गोता लगाया,",
    "size": "WS",
    "angle": "high",
@@ -416,14 +416,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S13_arrows.jpg",
    "script_time_in": "28.0s",
    "script_time_out": "30.5s",
-   "vo_start": 28.244,
-   "vo_end": 30.283
+   "vo_start": 28.094,
+   "vo_end": 30.154
   },
   {
    "shot_id": "DA-03-S14",
-   "time_in": "30.28s",
-   "time_out": "31.85s",
-   "duration_s": 1.57,
+   "time_in": "30.15s",
+   "time_out": "31.89s",
+   "duration_s": 1.74,
    "vo": "हिरण्याक्ष का वध किया…",
    "size": "MS (underwater clash)",
    "angle": "eye",
@@ -447,14 +447,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S14_arrows.jpg",
    "script_time_in": "30.5s",
    "script_time_out": "33.0s",
-   "vo_start": 30.283,
-   "vo_end": 31.689
+   "vo_start": 30.154,
+   "vo_end": 31.58
   },
   {
    "shot_id": "DA-03-S15",
-   "time_in": "31.85s",
-   "time_out": "35.86s",
-   "duration_s": 4.01,
+   "time_in": "31.89s",
+   "time_out": "35.96s",
+   "duration_s": 4.07,
    "vo": "और पूरी पृथ्वी को अपने दाँतों पर उठाकर बाहर ले आए।",
    "size": "WS (signature)",
    "angle": "low",
@@ -478,14 +478,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S15_arrows.jpg",
    "script_time_in": "33.0s",
    "script_time_out": "36.0s",
-   "vo_start": 31.974,
-   "vo_end": 35.666
+   "vo_start": 32.014,
+   "vo_end": 35.741
   },
   {
    "shot_id": "DA-03-S16",
-   "time_in": "35.86s",
-   "time_out": "38.83s",
-   "duration_s": 2.96,
+   "time_in": "35.96s",
+   "time_out": "39.12s",
+   "duration_s": 3.16,
    "vo": "पर हिरण्याक्ष का भाई जिंदा था, हिरण्यकशिपु।",
    "size": "MS",
    "angle": "eye",
@@ -507,14 +507,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S16.jpg",
    "script_time_in": "36.0s",
    "script_time_out": "38.5s",
-   "vo_start": 35.981,
-   "vo_end": 38.751
+   "vo_start": 36.08,
+   "vo_end": 38.958
   },
   {
    "shot_id": "DA-03-S17",
-   "time_in": "38.83s",
-   "time_out": "41.69s",
-   "duration_s": 2.86,
+   "time_in": "39.12s",
+   "time_out": "42.15s",
+   "duration_s": 3.03,
    "vo": "उसने कसम खाई, विष्णु से बदला लूँगा…",
    "size": "CU",
    "angle": "low",
@@ -538,14 +538,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S17_arrows.jpg",
    "script_time_in": "38.5s",
    "script_time_out": "41.5s",
-   "vo_start": 38.946,
-   "vo_end": 41.51
+   "vo_start": 39.242,
+   "vo_end": 41.81
   },
   {
    "shot_id": "DA-03-S18",
-   "time_in": "41.69s",
-   "time_out": "49.42s",
-   "duration_s": 7.73,
+   "time_in": "42.15s",
+   "time_out": "49.12s",
+   "duration_s": 6.97,
    "vo": "और फिर उसने ऐसा वरदान माँगा, जिसे तोड़ना नामुमकिन लगता था। पूरी कहानी, नीचे link में।",
    "size": "MS (freeze)",
    "angle": "low",
@@ -567,12 +567,12 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/DA-03/S18.jpg",
    "script_time_in": "41.5s",
    "script_time_out": "45.0s",
-   "vo_start": 41.81,
-   "vo_end": 48.206
+   "vo_start": 42.271,
+   "vo_end": 48.682
   }
  ],
  "vo_timed": true,
  "vo_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/vo/EP03/DA-03.mp3",
  "vo_timing_path": "Ready_to_Post\\voiceover\\EP03\\DA-03\\vo_timing.json",
- "retimed_at": "2026-11-21 15:51 IST"
+ "retimed_at": "2026-11-21 18:00 IST"
 }
