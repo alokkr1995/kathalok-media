@@ -14,14 +14,14 @@
   "Pandavas (five, as night silhouettes)"
  ],
  "frame": "1080x1920 (9:16), safe zone: top 220px + bottom 400px kept free of faces/text",
- "duration_s": 53.51,
+ "duration_s": 53.04,
  "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/_characters/KU_model_sheet.jpg",
  "shots": [
   {
    "shot_id": "KU-03-S01",
    "time_in": "0.00s",
-   "time_out": "2.01s",
-   "duration_s": 2.01,
+   "time_out": "2.09s",
+   "duration_s": 2.09,
    "vo": "रोज़ दस हज़ार योद्धा…",
    "size": "MS",
    "angle": "low",
@@ -45,14 +45,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S01_arrows.jpg",
    "script_time_in": "0.0s",
    "script_time_out": "1.5s",
-   "vo_start": 0.12,
-   "vo_end": 1.842
+   "vo_start": 0.16,
+   "vo_end": 1.846
   },
   {
    "shot_id": "KU-03-S02",
-   "time_in": "2.01s",
-   "time_out": "5.18s",
-   "duration_s": 3.17,
+   "time_in": "2.09s",
+   "time_out": "5.43s",
+   "duration_s": 3.34,
    "vo": "और नौ दिन तक कोई भीष्म को रोक नहीं पाया।",
    "size": "WS",
    "angle": "high",
@@ -76,13 +76,13 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S02_arrows.jpg",
    "script_time_in": "1.5s",
    "script_time_out": "3.0s",
-   "vo_start": 2.127,
-   "vo_end": 4.981
+   "vo_start": 2.212,
+   "vo_end": 5.113
   },
   {
    "shot_id": "KU-03-S03",
-   "time_in": "5.18s",
-   "time_out": "8.19s",
+   "time_in": "5.43s",
+   "time_out": "8.44s",
    "duration_s": 3.01,
    "vo": "विराट रूप देखकर अर्जुन का संशय मिट गया।",
    "size": "WS",
@@ -107,14 +107,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S03_arrows.jpg",
    "script_time_in": "3.0s",
    "script_time_out": "5.5s",
-   "vo_start": 5.296,
-   "vo_end": 8.142
+   "vo_start": 5.547,
+   "vo_end": 8.28
   },
   {
    "shot_id": "KU-03-S04",
-   "time_in": "8.19s",
-   "time_out": "10.01s",
-   "duration_s": 1.82,
+   "time_in": "8.44s",
+   "time_out": "10.17s",
+   "duration_s": 1.73,
    "vo": "उसने गांडीव उठाया…",
    "size": "MS",
    "angle": "low",
@@ -138,14 +138,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S04_arrows.jpg",
    "script_time_in": "5.5s",
    "script_time_out": "8.0s",
-   "vo_start": 8.307,
-   "vo_end": 9.845
+   "vo_start": 8.564,
+   "vo_end": 9.934
   },
   {
    "shot_id": "KU-03-S05",
-   "time_in": "10.01s",
+   "time_in": "10.17s",
    "time_out": "11.61s",
-   "duration_s": 1.6,
+   "duration_s": 1.44,
    "vo": "और युद्ध शुरू हुआ।",
    "size": "WS",
    "angle": "eye",
@@ -169,14 +169,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S05_arrows.jpg",
    "script_time_in": "8.0s",
    "script_time_out": "10.0s",
-   "vo_start": 10.13,
-   "vo_end": 11.418
+   "vo_start": 10.286,
+   "vo_end": 11.393
   },
   {
    "shot_id": "KU-03-S06",
    "time_in": "11.61s",
-   "time_out": "16.06s",
-   "duration_s": 4.45,
+   "time_out": "16.20s",
+   "duration_s": 4.59,
    "vo": "कौरवों के सेनापति भीष्म ने प्रतिज्ञा की थी, रोज़ दस हज़ार योद्धा।",
    "size": "WS",
    "angle": "eye",
@@ -200,14 +200,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S06_arrows.jpg",
    "script_time_in": "10.0s",
    "script_time_out": "13.0s",
-   "vo_start": 11.733,
-   "vo_end": 15.999
+   "vo_start": 11.731,
+   "vo_end": 16.038
   },
   {
    "shot_id": "KU-03-S07",
-   "time_in": "16.06s",
-   "time_out": "18.12s",
-   "duration_s": 2.07,
+   "time_in": "16.20s",
+   "time_out": "18.25s",
+   "duration_s": 2.05,
    "vo": "और इच्छा-मृत्यु का वरदान था,",
    "size": "MCU",
    "angle": "low",
@@ -231,14 +231,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S07_arrows.jpg",
    "script_time_in": "13.0s",
    "script_time_out": "15.5s",
-   "vo_start": 16.179,
-   "vo_end": 18.125
+   "vo_start": 16.322,
+   "vo_end": 18.251
   },
   {
    "shot_id": "KU-03-S08",
-   "time_in": "18.12s",
-   "time_out": "20.64s",
-   "duration_s": 2.52,
+   "time_in": "18.25s",
+   "time_out": "20.72s",
+   "duration_s": 2.47,
    "vo": "तो मरेंगे भी तभी, जब खुद चाहेंगे।",
    "size": "CU",
    "angle": "eye",
@@ -260,14 +260,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S08.jpg",
    "script_time_in": "15.5s",
    "script_time_out": "18.0s",
-   "vo_start": 18.125,
-   "vo_end": 20.445
+   "vo_start": 18.251,
+   "vo_end": 20.503
   },
   {
    "shot_id": "KU-03-S09",
-   "time_in": "20.64s",
-   "time_out": "24.74s",
-   "duration_s": 4.1,
+   "time_in": "20.72s",
+   "time_out": "25.10s",
+   "duration_s": 4.38,
    "vo": "अर्जुन अपने पितामह पर पूरी ताक़त से वार नहीं कर पा रहा था।",
    "size": "MS",
    "angle": "eye",
@@ -291,14 +291,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S09_arrows.jpg",
    "script_time_in": "18.0s",
    "script_time_out": "21.0s",
-   "vo_start": 20.76,
-   "vo_end": 24.676
+   "vo_start": 20.841,
+   "vo_end": 24.935
   },
   {
    "shot_id": "KU-03-S10",
-   "time_in": "24.74s",
-   "time_out": "28.31s",
-   "duration_s": 3.57,
+   "time_in": "25.10s",
+   "time_out": "28.68s",
+   "duration_s": 3.58,
    "vo": "तब शस्त्र न उठाने की कसम खाने वाले कृष्ण…",
    "size": "MCU",
    "angle": "low",
@@ -320,14 +320,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S10.jpg",
    "script_time_in": "21.0s",
    "script_time_out": "23.5s",
-   "vo_start": 24.856,
-   "vo_end": 28.111
+   "vo_start": 25.219,
+   "vo_end": 28.447
   },
   {
    "shot_id": "KU-03-S11",
-   "time_in": "28.31s",
-   "time_out": "29.89s",
-   "duration_s": 1.59,
+   "time_in": "28.68s",
+   "time_out": "30.28s",
+   "duration_s": 1.6,
    "vo": "रथ का पहिया उठाकर",
    "size": "MS",
    "angle": "low",
@@ -351,14 +351,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S11_arrows.jpg",
    "script_time_in": "23.5s",
    "script_time_out": "26.0s",
-   "vo_start": 28.426,
-   "vo_end": 29.895
+   "vo_start": 28.799,
+   "vo_end": 30.28
   },
   {
    "shot_id": "KU-03-S12",
-   "time_in": "29.89s",
-   "time_out": "31.47s",
-   "duration_s": 1.57,
+   "time_in": "30.28s",
+   "time_out": "31.83s",
+   "duration_s": 1.55,
    "vo": "भीष्म की ओर दौड़ पड़े।",
    "size": "WS",
    "angle": "eye",
@@ -382,14 +382,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S12_arrows.jpg",
    "script_time_in": "26.0s",
    "script_time_out": "28.0s",
-   "vo_start": 29.895,
-   "vo_end": 31.273
+   "vo_start": 30.28,
+   "vo_end": 31.612
   },
   {
    "shot_id": "KU-03-S13",
-   "time_in": "31.47s",
-   "time_out": "37.16s",
-   "duration_s": 5.69,
+   "time_in": "31.83s",
+   "time_out": "37.43s",
+   "duration_s": 5.6,
    "vo": "भीष्म ने हाथ जोड़ लिए… आइए प्रभु, आपके हाथों मरना मेरा सौभाग्य होगा।",
    "size": "MS",
    "angle": "eye",
@@ -413,14 +413,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S13_arrows.jpg",
    "script_time_in": "28.0s",
    "script_time_out": "31.0s",
-   "vo_start": 31.588,
-   "vo_end": 37.084
+   "vo_start": 31.951,
+   "vo_end": 37.263
   },
   {
    "shot_id": "KU-03-S14",
-   "time_in": "37.16s",
-   "time_out": "38.90s",
-   "duration_s": 1.74,
+   "time_in": "37.43s",
+   "time_out": "39.22s",
+   "duration_s": 1.79,
    "vo": "अर्जुन ने कृष्ण को रोका।",
    "size": "MS two-shot",
    "angle": "eye",
@@ -442,14 +442,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S14.jpg",
    "script_time_in": "31.0s",
    "script_time_out": "33.5s",
-   "vo_start": 37.279,
-   "vo_end": 38.795
+   "vo_start": 37.547,
+   "vo_end": 39.056
   },
   {
    "shot_id": "KU-03-S15",
-   "time_in": "38.90s",
-   "time_out": "43.51s",
-   "duration_s": 4.61,
+   "time_in": "39.22s",
+   "time_out": "43.80s",
+   "duration_s": 4.58,
    "vo": "पर सवाल वही था… जो मरना ही न चाहे, उसे हराएँ कैसे?",
    "size": "CU two-shot",
    "angle": "eye",
@@ -471,14 +471,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S15.jpg",
    "script_time_in": "33.5s",
    "script_time_out": "36.0s",
-   "vo_start": 39.02,
-   "vo_end": 43.315
+   "vo_start": 39.34,
+   "vo_end": 43.512
   },
   {
    "shot_id": "KU-03-S16",
-   "time_in": "43.51s",
-   "time_out": "47.09s",
-   "duration_s": 3.58,
+   "time_in": "43.80s",
+   "time_out": "47.54s",
+   "duration_s": 3.74,
    "vo": "तो नौवीं रात, पांडव चुपके से भीष्म के खेमे में गए…",
    "size": "WS (establishing)",
    "angle": "high",
@@ -502,14 +502,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S16_arrows.jpg",
    "script_time_in": "36.0s",
    "script_time_out": "39.0s",
-   "vo_start": 43.63,
-   "vo_end": 46.894
+   "vo_start": 43.918,
+   "vo_end": 47.204
   },
   {
    "shot_id": "KU-03-S17",
-   "time_in": "47.09s",
-   "time_out": "50.42s",
-   "duration_s": 3.33,
+   "time_in": "47.54s",
+   "time_out": "50.83s",
+   "duration_s": 3.29,
    "vo": "उन्हीं से पूछने कि आपकी मृत्यु कैसे होगी।",
    "size": "MS",
    "angle": "eye",
@@ -531,14 +531,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S17.jpg",
    "script_time_in": "39.0s",
    "script_time_out": "42.0s",
-   "vo_start": 47.209,
-   "vo_end": 50.201
+   "vo_start": 47.664,
+   "vo_end": 50.545
   },
   {
    "shot_id": "KU-03-S18",
-   "time_in": "50.42s",
-   "time_out": "53.51s",
-   "duration_s": 3.09,
+   "time_in": "50.83s",
+   "time_out": "53.04s",
+   "duration_s": 2.21,
    "vo": "पूरी कहानी, नीचे link में।",
    "size": "WS (freeze)",
    "angle": "eye",
@@ -560,12 +560,12 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KU-03/S18.jpg",
    "script_time_in": "42.0s",
    "script_time_out": "45.0s",
-   "vo_start": 50.538,
-   "vo_end": 52.302
+   "vo_start": 50.951,
+   "vo_end": 52.6
   }
  ],
  "vo_timed": true,
  "vo_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/vo/EP03/KU-03.mp3",
  "vo_timing_path": "Ready_to_Post\\voiceover\\EP03\\KU-03\\vo_timing.json",
- "retimed_at": "2026-11-21 15:51 IST"
+ "retimed_at": "2026-11-21 18:00 IST"
 }
