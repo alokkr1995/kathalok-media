@@ -16,14 +16,14 @@
   "Two archers — silhouettes only (Rama & Lakshmana, not revealed)"
  ],
  "frame": "1080x1920 (9:16), safe zone: top 220px + bottom 400px kept free of faces/text",
- "duration_s": 56.29,
+ "duration_s": 55.95,
  "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/_characters/HN_model_sheet.jpg",
  "shots": [
   {
    "shot_id": "HN-03-S01",
    "time_in": "0.00s",
-   "time_out": "2.64s",
-   "duration_s": 2.64,
+   "time_out": "2.63s",
+   "duration_s": 2.63,
    "vo": "दुनिया का सबसे शक्तिशाली बालक…",
    "size": "MS",
    "angle": "eye",
@@ -47,14 +47,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S01_arrows.jpg",
    "script_time_in": "0.0s",
    "script_time_out": "1.5s",
-   "vo_start": 0.12,
-   "vo_end": 2.492
+   "vo_start": 0.16,
+   "vo_end": 2.381
   },
   {
    "shot_id": "HN-03-S02",
-   "time_in": "2.64s",
-   "time_out": "5.13s",
-   "duration_s": 2.49,
+   "time_in": "2.63s",
+   "time_out": "5.16s",
+   "duration_s": 2.53,
    "vo": "और ऋषियों ने उसे श्राप दे दिया।",
    "size": "CU",
    "angle": "low",
@@ -78,14 +78,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S02_arrows.jpg",
    "script_time_in": "1.5s",
    "script_time_out": "3.0s",
-   "vo_start": 2.758,
-   "vo_end": 4.953
+   "vo_start": 2.747,
+   "vo_end": 4.851
   },
   {
    "shot_id": "HN-03-S03",
-   "time_in": "5.13s",
-   "time_out": "8.66s",
-   "duration_s": 3.53,
+   "time_in": "5.16s",
+   "time_out": "8.72s",
+   "duration_s": 3.56,
    "vo": "हवा रुकी तो सारे देवता पवन देव के पास पहुँचे।",
    "size": "WS",
    "angle": "eye",
@@ -109,14 +109,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S03_arrows.jpg",
    "script_time_in": "3.0s",
    "script_time_out": "5.5s",
-   "vo_start": 5.247,
-   "vo_end": 8.61
+   "vo_start": 5.284,
+   "vo_end": 8.558
   },
   {
    "shot_id": "HN-03-S04",
-   "time_in": "8.66s",
-   "time_out": "11.32s",
-   "duration_s": 2.66,
+   "time_in": "8.72s",
+   "time_out": "11.42s",
+   "duration_s": 2.7,
    "vo": "ब्रह्मा ने बालक को छुआ, वो जाग उठा…",
    "size": "MS",
    "angle": "eye",
@@ -140,14 +140,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S04_arrows.jpg",
    "script_time_in": "5.5s",
    "script_time_out": "8.0s",
-   "vo_start": 8.778,
-   "vo_end": 11.177
+   "vo_start": 8.842,
+   "vo_end": 11.185
   },
   {
    "shot_id": "HN-03-S05",
-   "time_in": "11.32s",
-   "time_out": "13.56s",
-   "duration_s": 2.24,
+   "time_in": "11.42s",
+   "time_out": "13.57s",
+   "duration_s": 2.15,
    "vo": "और दुनिया की साँसें लौट आईं।",
    "size": "WS",
    "angle": "eye",
@@ -171,14 +171,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S05_arrows.jpg",
    "script_time_in": "8.0s",
    "script_time_out": "10.0s",
-   "vo_start": 11.443,
-   "vo_end": 13.385
+   "vo_start": 11.537,
+   "vo_end": 13.351
   },
   {
    "shot_id": "HN-03-S06",
-   "time_in": "13.56s",
-   "time_out": "15.35s",
-   "duration_s": 1.79,
+   "time_in": "13.57s",
+   "time_out": "15.38s",
+   "duration_s": 1.81,
    "vo": "फिर वरदानों की बारिश हुई।",
    "size": "WS (circle)",
    "angle": "high (top-down-ish)",
@@ -202,14 +202,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S06_arrows.jpg",
    "script_time_in": "10.0s",
    "script_time_out": "12.0s",
-   "vo_start": 13.679,
-   "vo_end": 15.316
+   "vo_start": 13.689,
+   "vo_end": 15.219
   },
   {
    "shot_id": "HN-03-S07",
-   "time_in": "15.35s",
-   "time_out": "18.08s",
-   "duration_s": 2.73,
+   "time_in": "15.38s",
+   "time_out": "18.16s",
+   "duration_s": 2.78,
    "vo": "इंद्र बोले, मेरा वज्र तुम्हें नहीं छुएगा।",
    "size": "MS",
    "angle": "eye",
@@ -231,14 +231,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S07.jpg",
    "script_time_in": "12.0s",
    "script_time_out": "14.5s",
-   "vo_start": 15.47,
-   "vo_end": 18.065
+   "vo_start": 15.503,
+   "vo_end": 17.998
   },
   {
    "shot_id": "HN-03-S08",
-   "time_in": "18.08s",
-   "time_out": "21.07s",
-   "duration_s": 2.98,
+   "time_in": "18.16s",
+   "time_out": "21.18s",
+   "duration_s": 3.02,
    "vo": "ब्रह्मा बोले, कोई अस्त्र तुम्हें नहीं मार सकेगा।",
    "size": "MS",
    "angle": "eye",
@@ -260,14 +260,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S08.jpg",
    "script_time_in": "14.5s",
    "script_time_out": "17.0s",
-   "vo_start": 18.205,
-   "vo_end": 21.049
+   "vo_start": 18.282,
+   "vo_end": 21.02
   },
   {
    "shot_id": "HN-03-S09",
-   "time_in": "21.07s",
-   "time_out": "24.38s",
-   "duration_s": 3.31,
+   "time_in": "21.18s",
+   "time_out": "24.51s",
+   "duration_s": 3.33,
    "vo": "सूर्य ने अपना तेज और ज्ञान देने का वचन दिया।",
    "size": "MS",
    "angle": "low",
@@ -291,14 +291,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S09_arrows.jpg",
    "script_time_in": "17.0s",
    "script_time_out": "20.0s",
-   "vo_start": 21.189,
-   "vo_end": 24.203
+   "vo_start": 21.304,
+   "vo_end": 24.29
   },
   {
    "shot_id": "HN-03-S10",
-   "time_in": "24.38s",
-   "time_out": "27.38s",
-   "duration_s": 3.0,
+   "time_in": "24.51s",
+   "time_out": "27.57s",
+   "duration_s": 3.06,
    "vo": "अब इतनी ताक़त एक नटखट बालक के पास…",
    "size": "MCU",
    "angle": "eye",
@@ -322,14 +322,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S10_arrows.jpg",
    "script_time_in": "20.0s",
    "script_time_out": "22.5s",
-   "vo_start": 24.497,
-   "vo_end": 27.287
+   "vo_start": 24.628,
+   "vo_end": 27.337
   },
   {
    "shot_id": "HN-03-S11",
-   "time_in": "27.38s",
-   "time_out": "30.25s",
-   "duration_s": 2.87,
+   "time_in": "27.57s",
+   "time_out": "30.41s",
+   "duration_s": 2.84,
    "vo": "आश्रमों में उधम मच गया। कमंडल उलटे,",
    "size": "MS",
    "angle": "eye",
@@ -353,14 +353,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S11_arrows.jpg",
    "script_time_in": "22.5s",
    "script_time_out": "24.5s",
-   "vo_start": 27.497,
-   "vo_end": 30.251
+   "vo_start": 27.689,
+   "vo_end": 30.41
   },
   {
    "shot_id": "HN-03-S12",
-   "time_in": "30.25s",
-   "time_out": "30.95s",
-   "duration_s": 0.7,
+   "time_in": "30.41s",
+   "time_out": "31.05s",
+   "duration_s": 0.64,
    "vo": "पेड़ उखड़े,",
    "size": "WS",
    "angle": "low",
@@ -384,14 +384,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S12_arrows.jpg",
    "script_time_in": "24.5s",
    "script_time_out": "26.5s",
-   "vo_start": 30.251,
-   "vo_end": 30.95
+   "vo_start": 30.41,
+   "vo_end": 31.051
   },
   {
    "shot_id": "HN-03-S13",
-   "time_in": "30.95s",
-   "time_out": "32.11s",
-   "duration_s": 1.16,
+   "time_in": "31.05s",
+   "time_out": "32.17s",
+   "duration_s": 1.12,
    "vo": "यज्ञ बिखर गए।",
    "size": "Insert / MS",
    "angle": "high",
@@ -413,14 +413,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S13.jpg",
    "script_time_in": "26.5s",
    "script_time_out": "28.0s",
-   "vo_start": 30.95,
-   "vo_end": 31.937
+   "vo_start": 31.051,
+   "vo_end": 31.949
   },
   {
    "shot_id": "HN-03-S14",
-   "time_in": "32.11s",
-   "time_out": "34.05s",
-   "duration_s": 1.94,
+   "time_in": "32.17s",
+   "time_out": "34.09s",
+   "duration_s": 1.92,
    "vo": "तब ऋषियों ने श्राप दिया…",
    "size": "MS",
    "angle": "eye",
@@ -442,14 +442,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S14.jpg",
    "script_time_in": "28.0s",
    "script_time_out": "30.0s",
-   "vo_start": 32.231,
-   "vo_end": 33.904
+   "vo_start": 32.287,
+   "vo_end": 33.773
   },
   {
    "shot_id": "HN-03-S15",
-   "time_in": "34.05s",
-   "time_out": "39.72s",
-   "duration_s": 5.67,
+   "time_in": "34.09s",
+   "time_out": "39.73s",
+   "duration_s": 5.64,
    "vo": "तुम अपनी शक्ति भूल जाओगे। और तभी याद आएगी, जब कोई तुम्हें याद दिलाएगा।",
    "size": "MS",
    "angle": "eye",
@@ -473,14 +473,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S15_arrows.jpg",
    "script_time_in": "30.0s",
    "script_time_out": "33.0s",
-   "vo_start": 34.17,
-   "vo_end": 39.632
+   "vo_start": 34.207,
+   "vo_end": 39.57
   },
   {
    "shot_id": "HN-03-S16",
-   "time_in": "39.72s",
-   "time_out": "43.52s",
-   "duration_s": 3.8,
+   "time_in": "39.73s",
+   "time_out": "43.43s",
+   "duration_s": 3.7,
    "vo": "श्राप में गुस्सा नहीं था… एक समय का इंतज़ार था।",
    "size": "CU",
    "angle": "eye",
@@ -502,14 +502,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S16.jpg",
    "script_time_in": "33.0s",
    "script_time_out": "36.0s",
-   "vo_start": 39.842,
-   "vo_end": 43.344
+   "vo_start": 39.854,
+   "vo_end": 43.208
   },
   {
    "shot_id": "HN-03-S17",
-   "time_in": "43.52s",
-   "time_out": "46.45s",
-   "duration_s": 2.93,
+   "time_in": "43.43s",
+   "time_out": "46.56s",
+   "duration_s": 3.13,
    "vo": "सालों तक हनुमान एक आम वानर की तरह जिए।",
    "size": "WS",
    "angle": "eye",
@@ -533,14 +533,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S17_arrows.jpg",
    "script_time_in": "36.0s",
    "script_time_out": "38.5s",
-   "vo_start": 43.638,
-   "vo_end": 46.397
+   "vo_start": 43.547,
+   "vo_end": 46.4
   },
   {
    "shot_id": "HN-03-S18",
-   "time_in": "46.45s",
-   "time_out": "50.61s",
-   "duration_s": 4.16,
+   "time_in": "46.56s",
+   "time_out": "51.09s",
+   "duration_s": 4.53,
    "vo": "फिर एक दिन, किष्किंधा के जंगल में, दो अनजान धनुर्धारी आए…",
    "size": "EWS (POV from the hill)",
    "angle": "high",
@@ -564,14 +564,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S18_arrows.jpg",
    "script_time_in": "38.5s",
    "script_time_out": "41.0s",
-   "vo_start": 46.565,
-   "vo_end": 50.448
+   "vo_start": 46.684,
+   "vo_end": 50.744
   },
   {
    "shot_id": "HN-03-S19",
-   "time_in": "50.61s",
-   "time_out": "52.07s",
-   "duration_s": 1.46,
+   "time_in": "51.09s",
+   "time_out": "52.60s",
+   "duration_s": 1.51,
    "vo": "और सुग्रीव डर गए।",
    "size": "MS",
    "angle": "eye",
@@ -595,14 +595,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S19_arrows.jpg",
    "script_time_in": "41.0s",
    "script_time_out": "43.0s",
-   "vo_start": 50.728,
-   "vo_end": 52.019
+   "vo_start": 51.205,
+   "vo_end": 52.434
   },
   {
    "shot_id": "HN-03-S20",
-   "time_in": "52.07s",
-   "time_out": "56.29s",
-   "duration_s": 4.22,
+   "time_in": "52.60s",
+   "time_out": "55.95s",
+   "duration_s": 3.35,
    "vo": "कौन थे वो? पूरी कहानी, नीचे link में।",
    "size": "MS (freeze)",
    "angle": "eye",
@@ -624,12 +624,12 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/HN-03/S20.jpg",
    "script_time_in": "43.0s",
    "script_time_out": "45.0s",
-   "vo_start": 52.187,
-   "vo_end": 55.079
+   "vo_start": 52.718,
+   "vo_end": 55.514
   }
  ],
  "vo_timed": true,
  "vo_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/vo/EP03/HN-03.mp3",
  "vo_timing_path": "Ready_to_Post\\voiceover\\EP03\\HN-03\\vo_timing.json",
- "retimed_at": "2026-11-21 15:51 IST"
+ "retimed_at": "2026-11-21 18:00 IST"
 }
