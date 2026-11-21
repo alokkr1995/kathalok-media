@@ -16,7 +16,7 @@
  ],
  "frame": "1080x1920 (9:16), safe zone: top 220px + bottom 400px kept free of faces/text",
  "duration_s": 45.25,
- "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/_characters/RV_model_sheet.jpg",
+ "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/chars/RV/EP02_lineup.png",
  "shots": [
   {
    "shot_id": "RV-02-S01",
@@ -568,5 +568,7 @@
  "vo_timed": true,
  "vo_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/vo/EP02/RV-02.mp3",
  "vo_timing_path": "Ready_to_Post\\voiceover\\EP02\\RV-02\\vo_timing.json",
- "retimed_at": "2026-11-21 15:51 IST"
+ "drawn_from": "Character Studio rigs (Ready_to_Post/characters/_rig kc.py + specs.py), redrawn 2026-11-21 16:03 IST",
+ "character_sheets": "Ready_to_Post\\characters\\RV\\",
+ "made_at": "2026-11-21 16:03 IST"
 }
