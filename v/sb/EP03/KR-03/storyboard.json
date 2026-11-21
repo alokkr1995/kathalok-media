@@ -17,14 +17,14 @@
   "Parashurama (silhouette with axe)"
  ],
  "frame": "1080x1920 (9:16), safe zone: top 220px + bottom 400px kept free of faces/text",
- "duration_s": 53.55,
+ "duration_s": 53.59,
  "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/_characters/KR_model_sheet.jpg",
  "shots": [
   {
    "shot_id": "KR-03-S01",
    "time_in": "0.00s",
-   "time_out": "1.21s",
-   "duration_s": 1.21,
+   "time_out": "1.16s",
+   "duration_s": 1.16,
    "vo": "एक सवाल…",
    "size": "ECU",
    "angle": "eye",
@@ -48,14 +48,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S01_arrows.jpg",
    "script_time_in": "0.0s",
    "script_time_out": "1.3s",
-   "vo_start": 0.12,
-   "vo_end": 0.997
+   "vo_start": 0.16,
+   "vo_end": 0.916
   },
   {
    "shot_id": "KR-03-S02",
-   "time_in": "1.21s",
-   "time_out": "5.50s",
-   "duration_s": 4.29,
+   "time_in": "1.16s",
+   "time_out": "5.80s",
+   "duration_s": 4.64,
    "vo": "और दुनिया का सबसे बड़ा धनुर्धर सिर झुकाकर खड़ा रह गया।",
    "size": "WS",
    "angle": "high (looking down)",
@@ -79,14 +79,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S02_arrows.jpg",
    "script_time_in": "1.3s",
    "script_time_out": "3.0s",
-   "vo_start": 1.334,
-   "vo_end": 5.305
+   "vo_start": 1.282,
+   "vo_end": 5.482
   },
   {
    "shot_id": "KR-03-S03",
-   "time_in": "5.50s",
-   "time_out": "8.20s",
-   "duration_s": 2.7,
+   "time_in": "5.80s",
+   "time_out": "8.45s",
+   "duration_s": 2.65,
    "vo": "कृपाचार्य ने कहा, अर्जुन राजकुमार है।",
    "size": "MS",
    "angle": "eye",
@@ -110,14 +110,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S03_arrows.jpg",
    "script_time_in": "3.0s",
    "script_time_out": "5.5s",
-   "vo_start": 5.62,
-   "vo_end": 8.159
+   "vo_start": 5.916,
+   "vo_end": 8.281
   },
   {
    "shot_id": "KR-03-S04",
-   "time_in": "8.20s",
-   "time_out": "10.48s",
-   "duration_s": 2.28,
+   "time_in": "8.45s",
+   "time_out": "10.63s",
+   "duration_s": 2.18,
    "vo": "उससे लड़ना है तो पहले बताओ…",
    "size": "MCU",
    "angle": "eye",
@@ -139,14 +139,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S04.jpg",
    "script_time_in": "5.5s",
    "script_time_out": "7.5s",
-   "vo_start": 8.324,
-   "vo_end": 10.289
+   "vo_start": 8.565,
+   "vo_end": 10.4
   },
   {
    "shot_id": "KR-03-S05",
-   "time_in": "10.48s",
-   "time_out": "12.12s",
-   "duration_s": 1.63,
+   "time_in": "10.63s",
+   "time_out": "12.10s",
+   "duration_s": 1.47,
    "vo": "तुम्हारा कुल क्या है?",
    "size": "CU",
    "angle": "low",
@@ -170,14 +170,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S05_arrows.jpg",
    "script_time_in": "7.5s",
    "script_time_out": "10.0s",
-   "vo_start": 10.604,
-   "vo_end": 11.921
+   "vo_start": 10.752,
+   "vo_end": 11.817
   },
   {
    "shot_id": "KR-03-S06",
-   "time_in": "12.12s",
-   "time_out": "15.87s",
-   "duration_s": 3.75,
+   "time_in": "12.10s",
+   "time_out": "15.84s",
+   "duration_s": 3.74,
    "vo": "जिस हाथ ने अभी अर्जुन के सारे करतब दोहराए थे…",
    "size": "Insert / ECU",
    "angle": "eye",
@@ -199,14 +199,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S06.jpg",
    "script_time_in": "10.0s",
    "script_time_out": "12.5s",
-   "vo_start": 12.236,
-   "vo_end": 15.706
+   "vo_start": 12.224,
+   "vo_end": 15.609
   },
   {
    "shot_id": "KR-03-S07",
-   "time_in": "15.87s",
-   "time_out": "19.01s",
-   "duration_s": 3.14,
+   "time_in": "15.84s",
+   "time_out": "18.91s",
+   "duration_s": 3.07,
    "vo": "उसके पास इस सवाल का कोई जवाब नहीं था।",
    "size": "CU",
    "angle": "slightly high",
@@ -230,14 +230,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S07_arrows.jpg",
    "script_time_in": "12.5s",
    "script_time_out": "15.5s",
-   "vo_start": 15.991,
-   "vo_end": 18.918
+   "vo_start": 15.961,
+   "vo_end": 18.745
   },
   {
    "shot_id": "KR-03-S08",
-   "time_in": "19.01s",
-   "time_out": "20.30s",
-   "duration_s": 1.29,
+   "time_in": "18.91s",
+   "time_out": "20.13s",
+   "duration_s": 1.22,
    "vo": "कर्ण चुप रहा।",
    "size": "EWS",
    "angle": "high",
@@ -259,13 +259,13 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S08.jpg",
    "script_time_in": "15.5s",
    "script_time_out": "18.0s",
-   "vo_start": 19.128,
-   "vo_end": 20.106
+   "vo_start": 19.029,
+   "vo_end": 19.909
   },
   {
    "shot_id": "KR-03-S09",
-   "time_in": "20.30s",
-   "time_out": "21.96s",
+   "time_in": "20.13s",
+   "time_out": "21.79s",
    "duration_s": 1.66,
    "vo": "तभी दुर्योधन उठा।",
    "size": "MS",
@@ -290,14 +290,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S09_arrows.jpg",
    "script_time_in": "18.0s",
    "script_time_out": "20.0s",
-   "vo_start": 20.421,
-   "vo_end": 21.916
+   "vo_start": 20.248,
+   "vo_end": 21.627
   },
   {
    "shot_id": "KR-03-S10",
-   "time_in": "21.96s",
-   "time_out": "25.28s",
-   "duration_s": 3.32,
+   "time_in": "21.79s",
+   "time_out": "25.18s",
+   "duration_s": 3.39,
    "vo": "बोला, वीर की पहचान उसकी वीरता से होती है।",
    "size": "MS → WS",
    "angle": "eye",
@@ -321,14 +321,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S10_arrows.jpg",
    "script_time_in": "20.0s",
    "script_time_out": "23.5s",
-   "vo_start": 22.081,
-   "vo_end": 25.203
+   "vo_start": 21.911,
+   "vo_end": 25.02
   },
   {
    "shot_id": "KR-03-S11",
-   "time_in": "25.28s",
-   "time_out": "27.25s",
-   "duration_s": 1.97,
+   "time_in": "25.18s",
+   "time_out": "27.19s",
+   "duration_s": 2.01,
    "vo": "और उसी पल, सबके सामने,",
    "size": "WS",
    "angle": "eye",
@@ -350,14 +350,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S11.jpg",
    "script_time_in": "23.5s",
    "script_time_out": "26.0s",
-   "vo_start": 25.398,
-   "vo_end": 27.247
+   "vo_start": 25.304,
+   "vo_end": 27.189
   },
   {
    "shot_id": "KR-03-S12",
-   "time_in": "27.25s",
-   "time_out": "29.69s",
-   "duration_s": 2.44,
+   "time_in": "27.19s",
+   "time_out": "29.61s",
+   "duration_s": 2.42,
    "vo": "कर्ण को अंग देश का राजा बना दिया।",
    "size": "CU",
    "angle": "low",
@@ -381,14 +381,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S12_arrows.jpg",
    "script_time_in": "26.0s",
    "script_time_out": "28.0s",
-   "vo_start": 27.247,
-   "vo_end": 29.493
+   "vo_start": 27.189,
+   "vo_end": 29.388
   },
   {
    "shot_id": "KR-03-S13",
-   "time_in": "29.69s",
-   "time_out": "32.20s",
-   "duration_s": 2.51,
+   "time_in": "29.61s",
+   "time_out": "32.42s",
+   "duration_s": 2.81,
    "vo": "कर्ण ने पूछा, बदले में क्या चाहिए?",
    "size": "MS (OTS over Duryodhana)",
    "angle": "eye",
@@ -410,14 +410,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S13.jpg",
    "script_time_in": "28.0s",
    "script_time_out": "30.5s",
-   "vo_start": 29.808,
-   "vo_end": 32.096
+   "vo_start": 29.726,
+   "vo_end": 32.134
   },
   {
    "shot_id": "KR-03-S14",
-   "time_in": "32.20s",
-   "time_out": "35.46s",
-   "duration_s": 3.26,
+   "time_in": "32.42s",
+   "time_out": "35.62s",
+   "duration_s": 3.2,
    "vo": "दुर्योधन बोला… बस तुम्हारी दोस्ती।",
    "size": "MS (reverse OTS over Karna)",
    "angle": "eye",
@@ -441,14 +441,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S14_arrows.jpg",
    "script_time_in": "30.5s",
    "script_time_out": "33.0s",
-   "vo_start": 32.321,
-   "vo_end": 35.37
+   "vo_start": 32.54,
+   "vo_end": 35.455
   },
   {
    "shot_id": "KR-03-S15",
-   "time_in": "35.46s",
-   "time_out": "39.35s",
-   "duration_s": 3.89,
+   "time_in": "35.62s",
+   "time_out": "39.63s",
+   "duration_s": 4.01,
    "vo": "और यहीं से शुरू हुई महाभारत की सबसे कीमती दोस्ती।",
    "size": "MS two-shot (signature)",
    "angle": "low",
@@ -472,14 +472,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S15_arrows.jpg",
    "script_time_in": "33.0s",
    "script_time_out": "36.0s",
-   "vo_start": 35.58,
-   "vo_end": 39.151
+   "vo_start": 35.739,
+   "vo_end": 39.407
   },
   {
    "shot_id": "KR-03-S16",
-   "time_in": "39.35s",
-   "time_out": "43.39s",
-   "duration_s": 4.04,
+   "time_in": "39.63s",
+   "time_out": "44.04s",
+   "duration_s": 4.41,
    "vo": "पर अर्जुन के बराबर का यह हुनर कर्ण ने सीखा कहाँ था?",
    "size": "MCU (flashback transition)",
    "angle": "eye",
@@ -503,14 +503,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S16_arrows.jpg",
    "script_time_in": "36.0s",
    "script_time_out": "39.0s",
-   "vo_start": 39.466,
-   "vo_end": 43.283
+   "vo_start": 39.746,
+   "vo_end": 43.755
   },
   {
    "shot_id": "KR-03-S17",
-   "time_in": "43.39s",
-   "time_out": "47.27s",
-   "duration_s": 3.88,
+   "time_in": "44.04s",
+   "time_out": "48.14s",
+   "duration_s": 4.1,
    "vo": "एक ऐसे गुरु से, जो क्षत्रियों को कभी नहीं सिखाते थे…",
    "size": "EWS (flashback)",
    "angle": "low",
@@ -534,14 +534,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S17_arrows.jpg",
    "script_time_in": "39.0s",
    "script_time_out": "42.0s",
-   "vo_start": 43.508,
-   "vo_end": 47.075
+   "vo_start": 44.161,
+   "vo_end": 47.794
   },
   {
    "shot_id": "KR-03-S18",
-   "time_in": "47.27s",
-   "time_out": "53.55s",
-   "duration_s": 6.28,
+   "time_in": "48.14s",
+   "time_out": "53.59s",
+   "duration_s": 5.45,
    "vo": "और उनके सामने कर्ण ने एक झूठ बोला था। पूरी कहानी, नीचे link में।",
    "size": "MS (flashback, freeze)",
    "angle": "eye",
@@ -565,12 +565,12 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/KR-03/S18_arrows.jpg",
    "script_time_in": "42.0s",
    "script_time_out": "45.0s",
-   "vo_start": 47.39,
-   "vo_end": 52.338
+   "vo_start": 48.255,
+   "vo_end": 53.154
   }
  ],
  "vo_timed": true,
  "vo_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/vo/EP03/KR-03.mp3",
  "vo_timing_path": "Ready_to_Post\\voiceover\\EP03\\KR-03\\vo_timing.json",
- "retimed_at": "2026-11-21 15:51 IST"
+ "retimed_at": "2026-11-21 18:00 IST"
 }
