@@ -8,16 +8,16 @@
  "music_sfx": "ओडिशा का मर्दल और घंटे; लहरों की गरज; पर्वत डूबते समय गहरी धड़कन; विष पर सीटी जैसी हवा",
  "cover_text": "Ep 2 · कूर्म",
  "characters": [
-  "Matsya (golden fish with ONE horn)",
-  "Satyavrata (king-sage, saffron upper, white dhoti)",
-  "Vasuki (green many-hooded naga king, gold crown)",
-  "Devas (yellow/saffron, crowns) — hold the TAIL side",
-  "Asuras (dark skin, maroon/black) — hold the HEAD side (Bhagavata 8.7)",
-  "Kurma (giant tortoise, golden aura)"
+  "DA/matsya — golden fish, ONE horn + small crown (Matsya sheet)",
+  "DA/satyavrata — rajarshi, jata top-knot, long black beard, saffron dhoti, rudraksha (sheet)",
+  "DA/vasuki — green hooded naga king, cream hood, red mani (sheet)",
+  "DA/devas — 3 members, yellow, crowns (sheet) — TAIL side",
+  "DA/asuras — 3 members, dark violet skin, red upper/green dhoti (sheet) — HEAD side (Bhagavata 8.7)",
+  "DA/kurma — green tortoise, hex shell, small crown + Vaishnava tilak (sheet)"
  ],
  "frame": "1080x1920 (9:16), safe zone: top 220px + bottom 400px kept free of faces/text",
  "duration_s": 45.3,
- "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/_characters/DA_model_sheet.jpg",
+ "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/chars/DA/EP02_lineup.png",
  "shots": [
   {
    "shot_id": "DA-02-S01",
@@ -48,7 +48,11 @@
    "script_time_in": "0.0s",
    "script_time_out": "1.5s",
    "vo_start": 0.12,
-   "vo_end": 2.717
+   "vo_end": 2.717,
+   "char_refs": [
+    "DA/satyavrata (side, shock)",
+    "DA/vasuki (body as rope)"
+   ]
   },
   {
    "shot_id": "DA-02-S02",
@@ -79,7 +83,10 @@
    "script_time_in": "1.5s",
    "script_time_out": "3.0s",
    "vo_start": 3.002,
-   "vo_end": 4.477
+   "vo_end": 4.477,
+   "char_refs": [
+    "DA/vasuki (front head+hood, neutral)"
+   ]
   },
   {
    "shot_id": "DA-02-S03",
@@ -110,7 +117,12 @@
    "script_time_in": "3.0s",
    "script_time_out": "6.0s",
    "vo_start": 4.761,
-   "vo_end": 8.632
+   "vo_end": 8.632,
+   "char_refs": [
+    "DA/matsya (side, mirrored: faces right)",
+    "DA/vasuki (rope + head at horn)",
+    "DA/satyavrata (side, pray/devotion)"
+   ]
   },
   {
    "shot_id": "DA-02-S04",
@@ -141,7 +153,10 @@
    "script_time_in": "6.0s",
    "script_time_out": "8.0s",
    "vo_start": 8.917,
-   "vo_end": 10.217
+   "vo_end": 10.217,
+   "char_refs": [
+    "DA/satyavrata (q34, pray, devotion)"
+   ]
   },
   {
    "shot_id": "DA-02-S05",
@@ -172,7 +187,10 @@
    "script_time_in": "8.0s",
    "script_time_out": "10.0s",
    "vo_start": 10.217,
-   "vo_end": 11.706
+   "vo_end": 11.706,
+   "char_refs": [
+    "DA/vasuki (front, neutral)"
+   ]
   },
   {
    "shot_id": "DA-02-S06",
@@ -203,7 +221,10 @@
    "script_time_in": "10.0s",
    "script_time_out": "12.5s",
    "vo_start": 11.991,
-   "vo_end": 14.609
+   "vo_end": 14.609,
+   "char_refs": [
+    "DA/vasuki (body coils)"
+   ]
   },
   {
    "shot_id": "DA-02-S07",
@@ -234,7 +255,12 @@
    "script_time_in": "12.5s",
    "script_time_out": "16.0s",
    "vo_start": 14.758,
-   "vo_end": 17.622
+   "vo_end": 17.622,
+   "char_refs": [
+    "DA/asuras x3 (q34, hug=pulling, anger) HEAD side, screen-left",
+    "DA/devas x3 (q34 mirrored, hug, determination) TAIL side, screen-right",
+    "DA/vasuki (head screen-left, grief)"
+   ]
   },
   {
    "shot_id": "DA-02-S08",
@@ -265,7 +291,10 @@
    "script_time_in": "16.0s",
    "script_time_out": "20.0s",
    "vo_start": 17.622,
-   "vo_end": 19.472
+   "vo_end": 19.472,
+   "char_refs": [
+    "DA/vasuki (coils)"
+   ]
   },
   {
    "shot_id": "DA-02-S09",
@@ -296,7 +325,8 @@
    "script_time_in": "20.0s",
    "script_time_out": "22.5s",
    "vo_start": 19.757,
-   "vo_end": 21.797
+   "vo_end": 21.797,
+   "char_refs": []
   },
   {
    "shot_id": "DA-02-S10",
@@ -327,7 +357,10 @@
    "script_time_in": "22.5s",
    "script_time_out": "25.0s",
    "vo_start": 21.947,
-   "vo_end": 24.352
+   "vo_end": 24.352,
+   "char_refs": [
+    "DA/vasuki (coils)"
+   ]
   },
   {
    "shot_id": "DA-02-S11",
@@ -356,7 +389,13 @@
    "script_time_in": "25.0s",
    "script_time_out": "27.0s",
    "vo_start": 24.61,
-   "vo_end": 26.602
+   "vo_end": 26.602,
+   "char_refs": [
+    "DA/devas x3 (face close-up, shock)",
+    "DA/vasuki (body)"
+   ],
+   "still_arrows": "S11_arrows.jpg",
+   "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP02/DA-02/S11_arrows.jpg"
   },
   {
    "shot_id": "DA-02-S12",
@@ -385,7 +424,10 @@
    "script_time_in": "27.0s",
    "script_time_out": "29.0s",
    "vo_start": 26.908,
-   "vo_end": 29.1
+   "vo_end": 29.1,
+   "char_refs": [],
+   "still_arrows": "S12_arrows.jpg",
+   "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP02/DA-02/S12_arrows.jpg"
   },
   {
    "shot_id": "DA-02-S13",
@@ -416,7 +458,10 @@
    "script_time_in": "29.0s",
    "script_time_out": "31.0s",
    "vo_start": 29.685,
-   "vo_end": 30.302
+   "vo_end": 30.302,
+   "char_refs": [
+    "DA/kurma (front head, neutral)"
+   ]
   },
   {
    "shot_id": "DA-02-S14",
@@ -447,7 +492,12 @@
    "script_time_in": "31.0s",
    "script_time_out": "36.0s",
    "vo_start": 30.526,
-   "vo_end": 34.32
+   "vo_end": 34.32,
+   "char_refs": [
+    "DA/kurma (side, determination)",
+    "DA/asuras x3 small (left)",
+    "DA/devas x3 small (right)"
+   ]
   },
   {
    "shot_id": "DA-02-S15",
@@ -478,7 +528,12 @@
    "script_time_in": "36.0s",
    "script_time_out": "38.5s",
    "vo_start": 34.626,
-   "vo_end": 36.092
+   "vo_end": 36.092,
+   "char_refs": [
+    "DA/asuras x3 (q34, hug, determination)",
+    "DA/devas x3 (q34 mirrored, hug, joy)",
+    "DA/vasuki"
+   ]
   },
   {
    "shot_id": "DA-02-S16",
@@ -509,7 +564,10 @@
    "script_time_in": "38.5s",
    "script_time_out": "41.5s",
    "vo_start": 36.35,
-   "vo_end": 39.912
+   "vo_end": 39.912,
+   "char_refs": [
+    "DA/vasuki (dark)"
+   ]
   },
   {
    "shot_id": "DA-02-S17",
@@ -538,7 +596,13 @@
    "script_time_in": "41.5s",
    "script_time_out": "43.5s",
    "vo_start": 40.136,
-   "vo_end": 42.0
+   "vo_end": 42.0,
+   "char_refs": [
+    "DA/asuras member 1 (side, shock) screen-left facing right",
+    "DA/devas member 1 (side mirrored, shock) screen-right facing left"
+   ],
+   "still_arrows": "S17_arrows.jpg",
+   "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP02/DA-02/S17_arrows.jpg"
   },
   {
    "shot_id": "DA-02-S18",
@@ -557,8 +621,8 @@
    "tod": "dark",
    "light": "blue-violet",
    "layers": "MG: smoke | BG: dark sea",
-   "vfx": "CTA arrow bounce",
-   "text": "पहले विष! ↓",
+   "vfx": "CTA double-chevron bounce at bottom (drawn, not a text glyph)",
+   "text": "पहले विष!",
    "sfx": "SFX: whistle tail",
    "trans": "end",
    "anim": "freeze; arrow bounce 3×.",
@@ -567,11 +631,17 @@
    "script_time_in": "43.5s",
    "script_time_out": "45.0s",
    "vo_start": 42.326,
-   "vo_end": 44.09
+   "vo_end": 44.09,
+   "char_refs": [],
+   "still_arrows": "S18_arrows.jpg",
+   "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP02/DA-02/S18_arrows.jpg"
   }
  ],
  "vo_timed": true,
  "vo_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/vo/EP02/DA-02.mp3",
  "vo_timing_path": "Ready_to_Post\\voiceover\\EP02\\DA-02\\vo_timing.json",
- "retimed_at": "2026-11-21 15:51 IST"
+ "character_sheets": "Ready_to_Post\\characters\\DA\\<slug>\\ (rig: characters/_rig kc.py + specs.py)",
+ "redone_from_sheets": true,
+ "made_at": "2026-11-21 16:04 IST",
+ "vo_duration_s": 44.104
 }
