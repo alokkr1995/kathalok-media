@@ -14,14 +14,14 @@
   "Rama implied only as a bow silhouette (no face)"
  ],
  "frame": "1080x1920 (9:16), safe zone: top 220px + bottom 400px kept free of faces/text",
- "duration_s": 48.33,
+ "duration_s": 47.7,
  "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/_characters/RV_model_sheet.jpg",
  "shots": [
   {
    "shot_id": "RV-03-S01",
    "time_in": "0.00s",
-   "time_out": "2.01s",
-   "duration_s": 2.01,
+   "time_out": "2.20s",
+   "duration_s": 2.2,
    "vo": "देवता, दानव, यक्ष, नाग…",
    "size": "WS",
    "angle": "eye",
@@ -45,14 +45,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S01_arrows.jpg",
    "script_time_in": "0.0s",
    "script_time_out": "1.6s",
-   "vo_start": 0.12,
-   "vo_end": 1.844
+   "vo_start": 0.16,
+   "vo_end": 1.951
   },
   {
    "shot_id": "RV-03-S02",
-   "time_in": "2.01s",
-   "time_out": "6.77s",
-   "duration_s": 4.76,
+   "time_in": "2.20s",
+   "time_out": "7.22s",
+   "duration_s": 5.02,
    "vo": "कोई नहीं मार सकता था रावण को। पर सूची में एक नाम छूट गया।",
    "size": "CU",
    "angle": "eye",
@@ -76,14 +76,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S02_arrows.jpg",
    "script_time_in": "1.6s",
    "script_time_out": "3.0s",
-   "vo_start": 2.129,
-   "vo_end": 6.577
+   "vo_start": 2.317,
+   "vo_end": 6.909
   },
   {
    "shot_id": "RV-03-S03",
-   "time_in": "6.77s",
-   "time_out": "9.28s",
-   "duration_s": 2.51,
+   "time_in": "7.22s",
+   "time_out": "9.79s",
+   "duration_s": 2.57,
    "vo": "ब्रह्मा ने रावण के नौ सिर लौटा दिए।",
    "size": "WS",
    "angle": "low",
@@ -107,14 +107,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S03_arrows.jpg",
    "script_time_in": "3.0s",
    "script_time_out": "5.5s",
-   "vo_start": 6.892,
-   "vo_end": 9.238
+   "vo_start": 7.343,
+   "vo_end": 9.626
   },
   {
    "shot_id": "RV-03-S04",
-   "time_in": "9.28s",
-   "time_out": "11.71s",
-   "duration_s": 2.42,
+   "time_in": "9.79s",
+   "time_out": "12.16s",
+   "duration_s": 2.37,
    "vo": "रावण ने माँगा, मुझे अमर कर दो।",
    "size": "MS",
    "angle": "high (Brahma's POV)",
@@ -136,14 +136,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S04.jpg",
    "script_time_in": "5.5s",
    "script_time_out": "8.0s",
-   "vo_start": 9.403,
-   "vo_end": 11.645
+   "vo_start": 9.91,
+   "vo_end": 11.993
   },
   {
    "shot_id": "RV-03-S05",
-   "time_in": "11.71s",
-   "time_out": "13.96s",
-   "duration_s": 2.26,
+   "time_in": "12.16s",
+   "time_out": "14.27s",
+   "duration_s": 2.11,
    "vo": "ब्रह्मा बोले, यह संभव नहीं।",
    "size": "CU",
    "angle": "low",
@@ -165,14 +165,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S05.jpg",
    "script_time_in": "8.0s",
    "script_time_out": "10.0s",
-   "vo_start": 11.825,
-   "vo_end": 13.765
+   "vo_start": 12.277,
+   "vo_end": 14.051
   },
   {
    "shot_id": "RV-03-S06",
-   "time_in": "13.96s",
-   "time_out": "15.61s",
-   "duration_s": 1.65,
+   "time_in": "14.27s",
+   "time_out": "15.93s",
+   "duration_s": 1.66,
    "vo": "तो उसने सूची बनाई।",
    "size": "MS",
    "angle": "eye",
@@ -196,14 +196,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S06_arrows.jpg",
    "script_time_in": "10.0s",
    "script_time_out": "12.5s",
-   "vo_start": 14.08,
-   "vo_end": 15.546
+   "vo_start": 14.389,
+   "vo_end": 15.763
   },
   {
    "shot_id": "RV-03-S07",
-   "time_in": "15.61s",
-   "time_out": "16.92s",
-   "duration_s": 1.32,
+   "time_in": "15.93s",
+   "time_out": "17.23s",
+   "duration_s": 1.3,
    "vo": "गरुड़, नाग, यक्ष,",
    "size": "WS",
    "angle": "eye",
@@ -225,14 +225,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S07.jpg",
    "script_time_in": "12.5s",
    "script_time_out": "15.0s",
-   "vo_start": 15.726,
-   "vo_end": 16.923
+   "vo_start": 16.047,
+   "vo_end": 17.233
   },
   {
    "shot_id": "RV-03-S08",
-   "time_in": "16.92s",
-   "time_out": "18.95s",
-   "duration_s": 2.03,
+   "time_in": "17.23s",
+   "time_out": "19.33s",
+   "duration_s": 2.1,
    "vo": "दैत्य, दानव, राक्षस, देवता…",
    "size": "WS",
    "angle": "high",
@@ -256,14 +256,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S08_arrows.jpg",
    "script_time_in": "15.0s",
    "script_time_out": "17.5s",
-   "vo_start": 16.923,
-   "vo_end": 18.772
+   "vo_start": 17.233,
+   "vo_end": 19.096
   },
   {
    "shot_id": "RV-03-S09",
-   "time_in": "18.95s",
-   "time_out": "21.41s",
-   "duration_s": 2.46,
+   "time_in": "19.33s",
+   "time_out": "21.65s",
+   "duration_s": 2.32,
    "vo": "इनमें से कोई मुझे न मार सके।",
    "size": "MCU",
    "angle": "low",
@@ -287,14 +287,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S09_arrows.jpg",
    "script_time_in": "17.5s",
    "script_time_out": "20.0s",
-   "vo_start": 19.072,
-   "vo_end": 21.214
+   "vo_start": 19.448,
+   "vo_end": 21.431
   },
   {
    "shot_id": "RV-03-S10",
-   "time_in": "21.41s",
-   "time_out": "23.58s",
-   "duration_s": 2.17,
+   "time_in": "21.65s",
+   "time_out": "23.85s",
+   "duration_s": 2.2,
    "vo": "ब्रह्मा ने पूछा, और मनुष्य?",
    "size": "CU",
    "angle": "eye",
@@ -316,13 +316,13 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S10.jpg",
    "script_time_in": "20.0s",
    "script_time_out": "22.5s",
-   "vo_start": 21.529,
-   "vo_end": 23.471
+   "vo_start": 21.769,
+   "vo_end": 23.56
   },
   {
    "shot_id": "RV-03-S11",
-   "time_in": "23.58s",
-   "time_out": "27.26s",
+   "time_in": "23.85s",
+   "time_out": "27.53s",
    "duration_s": 3.68,
    "vo": "रावण हँसा। मनुष्य तो मेरे लिए तिनके जैसे हैं।",
    "size": "MS",
@@ -347,14 +347,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S11_arrows.jpg",
    "script_time_in": "22.5s",
    "script_time_out": "25.0s",
-   "vo_start": 23.696,
-   "vo_end": 27.214
+   "vo_start": 23.966,
+   "vo_end": 27.367
   },
   {
    "shot_id": "RV-03-S12",
-   "time_in": "27.26s",
-   "time_out": "28.81s",
-   "duration_s": 1.55,
+   "time_in": "27.53s",
+   "time_out": "29.00s",
+   "duration_s": 1.47,
    "vo": "उनसे क्या डरना।",
    "size": "Insert",
    "angle": "eye",
@@ -376,14 +376,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S12.jpg",
    "script_time_in": "25.0s",
    "script_time_out": "28.0s",
-   "vo_start": 27.379,
-   "vo_end": 28.617
+   "vo_start": 27.651,
+   "vo_end": 28.787
   },
   {
    "shot_id": "RV-03-S13",
-   "time_in": "28.81s",
-   "time_out": "30.75s",
-   "duration_s": 1.94,
+   "time_in": "29.00s",
+   "time_out": "30.86s",
+   "duration_s": 1.86,
    "vo": "ब्रह्मा ने कहा, तथास्तु।",
    "size": "MS",
    "angle": "low",
@@ -407,14 +407,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S13_arrows.jpg",
    "script_time_in": "28.0s",
    "script_time_out": "30.0s",
-   "vo_start": 28.932,
-   "vo_end": 30.649
+   "vo_start": 29.125,
+   "vo_end": 30.692
   },
   {
    "shot_id": "RV-03-S14",
-   "time_in": "30.75s",
-   "time_out": "34.46s",
-   "duration_s": 3.71,
+   "time_in": "30.86s",
+   "time_out": "34.67s",
+   "duration_s": 3.81,
    "vo": "और इसी घमंड ने उसकी मौत का दरवाज़ा खोल दिया…",
    "size": "Insert / WS",
    "angle": "eye",
@@ -436,14 +436,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S14.jpg",
    "script_time_in": "30.0s",
    "script_time_out": "33.0s",
-   "vo_start": 30.874,
-   "vo_end": 34.269
+   "vo_start": 30.976,
+   "vo_end": 34.358
   },
   {
    "shot_id": "RV-03-S15",
-   "time_in": "34.46s",
-   "time_out": "38.44s",
-   "duration_s": 3.98,
+   "time_in": "34.67s",
+   "time_out": "38.58s",
+   "duration_s": 3.91,
    "vo": "क्योंकि विष्णु अगली बार आने वाले थे, एक मनुष्य बनकर।",
    "size": "WS (signature)",
    "angle": "eye",
@@ -467,14 +467,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S15_arrows.jpg",
    "script_time_in": "33.0s",
    "script_time_out": "36.0s",
-   "vo_start": 34.584,
-   "vo_end": 38.249
+   "vo_start": 34.791,
+   "vo_end": 38.358
   },
   {
    "shot_id": "RV-03-S16",
-   "time_in": "38.44s",
-   "time_out": "41.10s",
-   "duration_s": 2.65,
+   "time_in": "38.58s",
+   "time_out": "41.28s",
+   "duration_s": 2.7,
    "vo": "वरदान मिलते ही रावण की नज़र गई",
    "size": "MCU",
    "angle": "eye",
@@ -496,14 +496,14 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S16.jpg",
    "script_time_in": "36.0s",
    "script_time_out": "38.5s",
-   "vo_start": 38.564,
-   "vo_end": 41.098
+   "vo_start": 38.696,
+   "vo_end": 41.28
   },
   {
    "shot_id": "RV-03-S17",
-   "time_in": "41.10s",
-   "time_out": "45.23s",
-   "duration_s": 4.14,
+   "time_in": "41.28s",
+   "time_out": "45.49s",
+   "duration_s": 4.21,
    "vo": "सोने की लंका पर… जो उसकी नहीं, उसके अपने भाई की थी।",
    "size": "EWS (POV)",
    "angle": "eye",
@@ -527,14 +527,14 @@
    "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S17_arrows.jpg",
    "script_time_in": "38.5s",
    "script_time_out": "41.5s",
-   "vo_start": 41.098,
-   "vo_end": 45.018
+   "vo_start": 41.28,
+   "vo_end": 45.202
   },
   {
    "shot_id": "RV-03-S18",
-   "time_in": "45.23s",
-   "time_out": "48.33s",
-   "duration_s": 3.09,
+   "time_in": "45.49s",
+   "time_out": "47.70s",
+   "duration_s": 2.21,
    "vo": "पूरी कहानी, नीचे link में।",
    "size": "CU (freeze)",
    "angle": "eye",
@@ -556,12 +556,12 @@
    "still_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP03/RV-03/S18.jpg",
    "script_time_in": "41.5s",
    "script_time_out": "45.0s",
-   "vo_start": 45.355,
-   "vo_end": 47.12
+   "vo_start": 45.609,
+   "vo_end": 47.257
   }
  ],
  "vo_timed": true,
  "vo_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/vo/EP03/RV-03.mp3",
  "vo_timing_path": "Ready_to_Post\\voiceover\\EP03\\RV-03\\vo_timing.json",
- "retimed_at": "2026-11-21 15:51 IST"
+ "retimed_at": "2026-11-21 18:00 IST"
 }
