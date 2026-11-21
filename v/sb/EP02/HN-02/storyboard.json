@@ -17,7 +17,7 @@
  ],
  "frame": "1080x1920 (9:16), safe zone: top 220px + bottom 400px kept free of faces/text",
  "duration_s": 47.61,
- "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/_characters/HN_model_sheet.jpg",
+ "model_sheet": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/chars/HN/EP02_lineup.png",
  "shots": [
   {
    "shot_id": "HN-02-S01",
@@ -48,10 +48,7 @@
    "script_time_in": "0.0s",
    "script_time_out": "1.5s",
    "vo_start": 0.12,
-   "vo_end": 1.611,
-   "char_slugs": [
-    "HN/bal_hanuman"
-   ]
+   "vo_end": 1.611
   },
   {
    "shot_id": "HN-02-S02",
@@ -82,10 +79,7 @@
    "script_time_in": "1.5s",
    "script_time_out": "3.0s",
    "vo_start": 1.839,
-   "vo_end": 4.403,
-   "char_slugs": [
-    "HN/bal_hanuman"
-   ]
+   "vo_end": 4.403
   },
   {
    "shot_id": "HN-02-S03",
@@ -116,10 +110,7 @@
    "script_time_in": "3.0s",
    "script_time_out": "5.0s",
    "vo_start": 4.649,
-   "vo_end": 6.541,
-   "char_slugs": [
-    "HN/anjana"
-   ]
+   "vo_end": 6.541
   },
   {
    "shot_id": "HN-02-S04",
@@ -150,10 +141,7 @@
    "script_time_in": "5.0s",
    "script_time_out": "7.5s",
    "vo_start": 6.673,
-   "vo_end": 8.225,
-   "char_slugs": [
-    "HN/bal_hanuman"
-   ]
+   "vo_end": 8.225
   },
   {
    "shot_id": "HN-02-S05",
@@ -182,12 +170,7 @@
    "script_time_in": "7.5s",
    "script_time_out": "8.8s",
    "vo_start": 8.225,
-   "vo_end": 9.393,
-   "char_slugs": [
-    "HN/bal_hanuman"
-   ],
-   "still_arrows": "S05_arrows.jpg",
-   "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP02/HN-02/S05_arrows.jpg"
+   "vo_end": 9.393
   },
   {
    "shot_id": "HN-02-S06",
@@ -218,8 +201,7 @@
    "script_time_in": "8.8s",
    "script_time_out": "10.0s",
    "vo_start": 9.609,
-   "vo_end": 11.072,
-   "char_slugs": []
+   "vo_end": 11.072
   },
   {
    "shot_id": "HN-02-S07",
@@ -250,10 +232,7 @@
    "script_time_in": "10.0s",
    "script_time_out": "11.5s",
    "vo_start": 11.306,
-   "vo_end": 12.216,
-   "char_slugs": [
-    "HN/bal_hanuman"
-   ]
+   "vo_end": 12.216
   },
   {
    "shot_id": "HN-02-S08",
@@ -284,10 +263,7 @@
    "script_time_in": "11.5s",
    "script_time_out": "14.0s",
    "vo_start": 12.414,
-   "vo_end": 15.255,
-   "char_slugs": [
-    "HN/bal_hanuman"
-   ]
+   "vo_end": 15.255
   },
   {
    "shot_id": "HN-02-S09",
@@ -318,11 +294,7 @@
    "script_time_in": "14.0s",
    "script_time_out": "18.0s",
    "vo_start": 15.399,
-   "vo_end": 18.388,
-   "char_slugs": [
-    "HN/surya",
-    "HN/bal_hanuman"
-   ]
+   "vo_end": 18.388
   },
   {
    "shot_id": "HN-02-S10",
@@ -353,10 +325,7 @@
    "script_time_in": "18.0s",
    "script_time_out": "20.5s",
    "vo_start": 18.64,
-   "vo_end": 21.258,
-   "char_slugs": [
-    "HN/rahu"
-   ]
+   "vo_end": 21.258
   },
   {
    "shot_id": "HN-02-S11",
@@ -387,11 +356,7 @@
    "script_time_in": "20.5s",
    "script_time_out": "23.0s",
    "vo_start": 21.39,
-   "vo_end": 23.382,
-   "char_slugs": [
-    "HN/rahu",
-    "HN/bal_hanuman"
-   ]
+   "vo_end": 23.382
   },
   {
    "shot_id": "HN-02-S12",
@@ -422,10 +387,7 @@
    "script_time_in": "23.0s",
    "script_time_out": "26.0s",
    "vo_start": 23.598,
-   "vo_end": 25.898,
-   "char_slugs": [
-    "HN/rahu"
-   ]
+   "vo_end": 25.898
   },
   {
    "shot_id": "HN-02-S13",
@@ -456,11 +418,7 @@
    "script_time_in": "26.0s",
    "script_time_out": "28.5s",
    "vo_start": 26.144,
-   "vo_end": 27.645,
-   "char_slugs": [
-    "HN/indra",
-    "HN/airavata"
-   ]
+   "vo_end": 27.645
   },
   {
    "shot_id": "HN-02-S14",
@@ -489,10 +447,7 @@
    "script_time_in": "28.5s",
    "script_time_out": "30.5s",
    "vo_start": 27.789,
-   "vo_end": 30.057,
-   "char_slugs": [
-    "HN/bal_hanuman"
-   ]
+   "vo_end": 30.057
   },
   {
    "shot_id": "HN-02-S15",
@@ -521,10 +476,7 @@
    "script_time_in": "30.5s",
    "script_time_out": "33.0s",
    "vo_start": 30.057,
-   "vo_end": 32.325,
-   "char_slugs": [
-    "HN/bal_hanuman"
-   ]
+   "vo_end": 32.325
   },
   {
    "shot_id": "HN-02-S16",
@@ -555,10 +507,7 @@
    "script_time_in": "33.0s",
    "script_time_out": "36.0s",
    "vo_start": 32.505,
-   "vo_end": 35.26,
-   "char_slugs": [
-    "HN/bal_hanuman"
-   ]
+   "vo_end": 35.26
   },
   {
    "shot_id": "HN-02-S17",
@@ -589,12 +538,7 @@
    "script_time_in": "36.0s",
    "script_time_out": "38.5s",
    "vo_start": 35.512,
-   "vo_end": 38.611,
-   "char_slugs": [
-    "HN/vayu",
-    "HN/bal_hanuman"
-   ],
-   "props_note": "Vayu drawn without his dhvaja while holding the child (both hands busy)"
+   "vo_end": 38.611
   },
   {
    "shot_id": "HN-02-S18",
@@ -623,8 +567,7 @@
    "script_time_in": "38.5s",
    "script_time_out": "41.0s",
    "vo_start": 38.791,
-   "vo_end": 41.131,
-   "char_slugs": []
+   "vo_end": 41.131
   },
   {
    "shot_id": "HN-02-S19",
@@ -635,7 +578,7 @@
    "size": "MS",
    "angle": "eye",
    "move": "slow push-in",
-   "chars": "Indra (left) and Surya (right) in the sky court, hand at chest, gasping (devas represented by sheeted Indra + Surya)",
+   "chars": "devas in the sky palace gasping, one hand at the throat, looking at each other",
    "action": "struggle to breathe",
    "expr": "fear, worry",
    "props": "—",
@@ -655,11 +598,7 @@
    "script_time_in": "41.0s",
    "script_time_out": "43.5s",
    "vo_start": 41.263,
-   "vo_end": 44.366,
-   "char_slugs": [
-    "HN/indra",
-    "HN/surya"
-   ]
+   "vo_end": 44.366
   },
   {
    "shot_id": "HN-02-S20",
@@ -688,21 +627,13 @@
    "script_time_in": "43.5s",
    "script_time_out": "45.0s",
    "vo_start": 44.636,
-   "vo_end": 46.401,
-   "char_slugs": [
-    "HN/vayu",
-    "HN/bal_hanuman"
-   ],
-   "text_note": "\"हवा रुक गई! ↓\" — the ↓ is drawn as a gold double chevron (CTA arrow space at bottom)",
-   "still_arrows": "S20_arrows.jpg",
-   "still_arrows_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/sb/EP02/HN-02/S20_arrows.jpg"
+   "vo_end": 46.401
   }
  ],
  "vo_timed": true,
  "vo_url": "https://raw.githubusercontent.com/alokkr1995/kathalok-media/main/v/vo/EP02/HN-02.mp3",
  "vo_timing_path": "Ready_to_Post\\voiceover\\EP02\\HN-02\\vo_timing.json",
- "retimed_at": "2026-11-21 15:51 IST",
- "redone_from_sheets": true,
- "redrawn_at": "2026-11-21 16:01 IST",
- "character_sheets": "Ready_to_Post\\characters\\HN\\<slug>\\ (turnaround/expressions/poses/details) — drawn with rig kc.fig(specs.CH[slug], view, pose, expr)"
+ "drawn_from": "Character Studio rigs (Ready_to_Post/characters/_rig kc.py + specs.py), redrawn 2026-11-21 16:13 IST",
+ "character_sheets": "Ready_to_Post\\characters\\HN\\",
+ "made_at": "2026-11-21 16:13 IST"
 }
